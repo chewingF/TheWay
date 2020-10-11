@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e7097ef091009b64c8adc07944074d64
+timeCreated: 1495357850
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 01 Digitall
+  fontNames:
+  - 01 Digitall
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
